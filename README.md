@@ -28,8 +28,8 @@ Ensure you have the following installed on your system:
 ### **2. Clone the Repository:**
 
 ```bash
-git clone <repository_url>
-cd <repository_folder>
+git clone https://github.com/SagarDas07/Multiple-Disease-Prediction-System
+cd Multiple-Disease-Prediction-System
 ```
 
 ### **3. Create a Virtual Environment:**
