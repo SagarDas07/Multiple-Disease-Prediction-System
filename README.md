@@ -66,7 +66,7 @@ streamlit run main.py
 
 ## **Sample Output**
 
-![1736785034031](image/README/1736785034031.png)
+![1736785034031](output.png)
 
 ---
 
